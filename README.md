@@ -194,6 +194,7 @@ Looking for design resources?
 | [FDR](https://freedesignresources.net) | Regularly updated free design resources picked for you to use |
 | [FreebieSupply](https://freebiesupply.com/) | Need some design resources for Adobe Xd, Figma, Sketch, Photoshop, Illustrator? |
 | [LS Graphics](https://www.ls.graphics/) | Free and Premium tools for graphic designers |
+| [ThemeUI](https://themeui.net/) | Free UI Kits & Web Design resources |
 
 [⬆️ Back to Categories](#categories)
 
