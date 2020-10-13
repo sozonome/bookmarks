@@ -92,6 +92,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [Expo](https://expo.io) | App Building Toolchain, based on React Native |
 | [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) | Measure metrics for a healthy site |
 | [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) | Open source browser design tools |
+| [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | Extract CSS and build beautiful styleguides. |
 | [Framer](https://framer.com) | App Prototyping Tool |
 | [Material Design Color Tool](https://material.io/resources/color/) | Create, share, and apply color palettes |
 | [SupaBase](https://supabase.io) | Firebase alternative |
