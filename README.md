@@ -103,6 +103,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [CodeFactor](https://codefactor.io) | Automated code review for git |
 | [SonarCloud](https://sonarcloud.io/) | Analyze your public repo for free |
 | [BundlePhobia](https://bundlephobia.com/) | find the cost of adding a npm package to your bundle, or just scan your `package.json` |
+| [lightest.app](https://lightest.app) | visualize webpage loading and performance. |
 
 [⬆️ Back to Categories](#categories)
 
