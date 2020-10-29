@@ -246,6 +246,7 @@ Beautiful scenes illustrations for your projects. Can elevate your projects espe
 | [Undraw Illustrations](https://undraw.co/illustrations) | Open source illustrations for any idea |
 | [Icons8 Ouch](https://icons8.com/ouch) | Free Vector Illustrations to Class up Your Project |
 | [Stubborn](https://stubborn.fun/) | design your characters using generator absolutely for free | 
+| [LottieFiles](https://lottiefiles.com/) | Free animations file built for Lottie. Lottie animations and the tools you need to test and perfect them. |
 | | |
 | | |
 | | ***by Pablo Stanley*** |
