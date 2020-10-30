@@ -157,6 +157,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | API | Description |
 |---|---|
 | Public API Lists | Looking for public API for learning / fun building? <br> - [public-apis](https://github.com/public-apis/public-apis) <br> - [another one](https://github.com/n0shake/Public-APIs) |
+| [Public APIs](https://public-apis.io/) | A directory of Free Public & Open REST APIs |
 
 [⬆️ Back to Categories](#categories)
 
