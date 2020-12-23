@@ -105,6 +105,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [SonarCloud](https://sonarcloud.io/) | Analyze your public repo for free |
 | [BundlePhobia](https://bundlephobia.com/) | find the cost of adding a npm package to your bundle, or just scan your `package.json` |
 | [lightest.app](https://www.lightest.app) | visualize webpage loading and performance. |
+| [Responsively](https://responsively.app/) | Open source modified web browser that helps in responsive web development. |
 
 [⬆️ Back to Categories](#categories)
 
