@@ -13,6 +13,7 @@ Hope you all find it useful.
     - [🌐 Develop on the web](#develop-on-the-web)
   - [✨ Frameworks / Libraries](#frameworks-libraries)
   - [🔁 API](#api)
+  - [👍 Best Practices](#best-practices)
 - [💸 Finance](#finance)
 - [✨ Design](#design)
   - [🎇 Inspirations](#inspirations)
@@ -158,6 +159,16 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 |---|---|
 | Public API Lists | Looking for public API for learning / fun building? <br> - [public-apis](https://github.com/public-apis/public-apis) <br> - [another one](https://github.com/n0shake/Public-APIs) |
 | [Public APIs](https://public-apis.io/) | A directory of Free Public & Open REST APIs |
+
+[⬆️ Back to Categories](#categories)
+
+###### Best Practices
+
+| References | Description |
+|---|---|
+| [Node best practices](https://github.com/goldbergyoni/nodebestpractices) | The Node.js best practices list |
+| [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean Code concepts adapted for JavaScript |
+| [Clean Code TypeScript](https://github.com/labs42io/clean-code-typescript) | Clean Code concepts adapted for TypeScript |
 
 [⬆️ Back to Categories](#categories)
 
