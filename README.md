@@ -1,3 +1,8 @@
+***Archived***
+This repository won't be updated in the future. 
+The content is already moved to my [personal knowledge base](https://base.sznm.dev).
+
+---
 # ⭐Fun Apps / Sites / Tools / Frameworks / Libraries / Resources⭐
 
 Hope you all find it useful. 
